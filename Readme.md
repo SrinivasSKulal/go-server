@@ -1,5 +1,6 @@
 # Go-Server
 ![](mdi/goi.jpg "Hi")
+
 Example server in go with 2 main pages present in the static folder.
 
 - **index.html**
